@@ -26,7 +26,6 @@ body {
   border-radius: 8px;
   text-align: center;
 }
-
 .container:after {
   content: "";
   position: absolute;
@@ -37,20 +36,17 @@ body {
   top: -10%;
   left: 10%;
 }
-
 .container p {
   color: #fdd8d8;
   line-height: 2;
   font-size: 18px;
 }
-
 .container h3 {
   color: #ffffff;
   margin: 20px 0 60px 0;
   font-weight: 600;
   text-transform: capitalize;
 }
-
 .container button {
   background-color: #ffffff;
   border: none;
